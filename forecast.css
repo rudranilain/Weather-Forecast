@@ -1,0 +1,28 @@
+body{
+    text-align: center;
+    background-image: url("clearsky.jpg");
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+}
+h1{
+    margin-top: 10%;
+
+   
+}
+
+
+#u{
+    width: 30%;
+    margin-left: 35%;
+}
+img{
+    width: 100px;
+    height: 100px;
+ 
+}
+label{
+    font-size: 30px;
+    color: rgb(184, 17, 17);
+}
